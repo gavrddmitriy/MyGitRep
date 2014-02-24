@@ -1,5 +1,10 @@
 <html>
   <body>
     <b>Hello, World</b>
+
+    <table>
+      <tr>x</tr>
+      <tr>y</tr>
+    </table>    
   </body>
 </html>
